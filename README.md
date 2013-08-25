@@ -6,6 +6,8 @@
 
 ```
 |--Sass flat ui
+|----design
+|-------
 |----sass
 |----css
 |----images
